@@ -1,4 +1,4 @@
-# 🎰 Casino Slot Game
+# 🎰 Casino Slot Game 
 
 A fun and interactive casino slot game built using **HTML**, **CSS**, and **JavaScript**. Spin the reels and test your luck!
 
@@ -21,7 +21,7 @@ Casino-Slot-Game/
 ├── sounds/         # Folder for audio files (e.g., win.mp3, lose.mp3)
 └── assets/         # Folder for images or additional assets
 ```
-
+# To play the game visit : https://eloquent-chebakia-d0955e.netlify.app/
 ---
 
 ## 🛠️ Installation
@@ -61,13 +61,6 @@ Follow these steps to set up the project locally:
 
 ---
 
-## 🔊 Audio Credits
-*(Optional)*
-- Background Music: [Source Name](<Link>)
-- Sound Effects: [Source Name](<Link>)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute:
@@ -96,5 +89,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ## 🌟 Acknowledgments
 
-- Thanks to [Freepik](https://www.freepik.com/) for some of the assets.
+- Thanks to netlify for game deployment.
 - Inspired by the thrill of casino slot machines.
