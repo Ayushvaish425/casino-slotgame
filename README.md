@@ -30,7 +30,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<YourUsername>/casino-slot-game.git
+   git clone https://github.com/<Ayushvaish425>/casino-slot-game.git
    ```
 
 2. **Navigate to the project directory:**
